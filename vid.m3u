@@ -222,42 +222,42 @@ http://filex.tv:8080/aftab123/004090/302243
 
 ---------------------------------Bonus-------------------------------------------------------------
 
-EXTINF:-1 tvg-id="Golf 1.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="OLAH RAGA",Golf 1
+#EXTINF:- tvg-id="Golf 1.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="OLAH RAGA",Golf 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
 
-EXTINF:-1 tvg-id="Golf 2.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="OLAH RAGA",Golf 2
+#EXTINF:- tvg-id="Golf 2.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="OLAH RAGA",Golf 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
-EXTINF:-1 tvg-id="Premier Tv.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="OLAH RAGA",Premier League
+#EXTINF:- tvg-id="Premier Tv.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="OLAH RAGA",Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 
-EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="OLAH RAGA",Champions TV 1
+#EXTINF:- tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="OLAH RAGA",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
-EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="OLAH RAGA",Champions TV 2
+#EXTINF:- tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="OLAH RAGA",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm
 https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash 
 
-EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="OLAH RAGA",Champions TV 3
+#EXTINF:- tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="OLAH RAGA",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -265,14 +265,14 @@ EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" grou
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 
-EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="OLAH RAGA",Champions TV 5
+#EXTINF:- tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="OLAH RAGA",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
-EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="OLAH RAGA",Champions TV 6
+#EXTINF:- tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="OLAH RAGA",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
