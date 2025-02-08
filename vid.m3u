@@ -51,6 +51,10 @@ https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
 https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png",Food Travel
+http://atg100.xyz:80/UL33K17/SYC4T9D/1088913
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsThkRVaTEjGh_pgyHjwTzco.png",Vision Prime
+http://atg100.xyz:80/UL33K17/SYC4T9D/584531 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",ALLPLAY Ent
 https://streaming.indihometv.com/atm/hlsv3/useeprime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
