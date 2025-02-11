@@ -15,6 +15,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_hls/GTV-HD.m3u8
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/2560px-Rajawali_Televisi.svg.png",RTV
+http://atg100.xyz:80/UL33K17/SYC4T9D/584495
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png",MDTV
 https://haoyunlai.serv00.net/Smartv-1.php?id=NetTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png",MOJI
