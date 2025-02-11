@@ -16,9 +16,9 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/2560px-Rajawali_Televisi.svg.png",RTV
-http://atg100.xyz:80/UL33K17/SYC4T9D/584495
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png",MDTV
-https://haoyunlai.serv00.net/Smartv-1.php?id=NetTV
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/24
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png",MOJI
 https://link.zozotv.xyz:443/perfecttv/perfecttv/475
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png",Jtv
@@ -31,6 +31,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S4aoHg8.png",Horee!
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/14106
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EOkH5JDfHzAnCeGKEXiY12G36Qw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png",Hip Hip Horee!
 http://ktpremium.xyz:2095/QPP76780098/A904599/73989
 #EXTINF:-1 tvg-logo="http://go4.pw/INDONESIA/KIDSTV.png",Kids TV
