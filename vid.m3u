@@ -39,6 +39,10 @@ http://ktpremium.xyz:2095/QPP76780098/A904599/73989
 http://atg100.xyz:80/UL33K17/SYC4T9D/584509
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",Cartoon Network
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_nickelodeon_ver1.png",Nickelodeon
+https://link.zozotv.xyz:443/perfecttv/perfecttv/136
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NicJr
+https://link.zozotv.xyz:443/live/perfecttv/perfecttv/343
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1705331415_THUMBNAIL-88-CARTOONITO.png",Cartoonito
 https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png",Food Travel
