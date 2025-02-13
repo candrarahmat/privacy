@@ -16,11 +16,13 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",TRANS7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/2560px-Rajawali_Televisi.svg.png",RTV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37
+https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/400px-MDTV_logo.svg.png",MDTV
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/24
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png",MOJI
 https://link.zozotv.xyz:443/perfecttv/perfecttv/475
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",iNewsTV
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png",Jtv
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png",TVONE
@@ -29,26 +31,38 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC ID
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_idx_small.png",IDX
+https://streaming.indihometv.com/atm/DASH/idx/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_small1.png?v=2.0.0.13",Al Jazeera
+https://live-hls-web-aje-fa.getaj.net/AJE/06.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4aoHg8.png",Horee!
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/14106
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505844
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EOkH5JDfHzAnCeGKEXiY12G36Qw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png",Hip Hip Horee!
 http://ktpremium.xyz:2095/QPP76780098/A904599/73989
 #EXTINF:-1 tvg-logo="http://go4.pw/INDONESIA/KIDSTV.png",Kids TV
 http://atg100.xyz:80/UL33K17/SYC4T9D/584509
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",Cartoon Network
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_nickelodeon_ver1.png",Nickelodeon
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505862
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NicJr
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505861
+https://streaming.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1705331415_THUMBNAIL-88-CARTOONITO.png",Cartoonito
 https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mykids_ver1.png",My Kidz
+https://streaming.indihometv.com/atm/DASH/mykids/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png",Food Travel
 http://atg100.xyz:80/UL33K17/SYC4T9D/1088913
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsThkRVaTEjGh_pgyHjwTzco.png",Vision Prime
 http://atg100.xyz:80/UL33K17/SYC4T9D/584531 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",ALLPLAY Ent
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",Hits Now
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/440px-HBO_logo.svg.png",HBO
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
@@ -69,18 +83,24 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/830524
 http://83.142.30.171:8080/perfecttv/perfecttv/2000
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",BUDDY STAR
 https://link.zozotv.xyz:443/perfecttv/perfecttv/1996
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_ver1.png",Warner TV
+https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/My_Cinema_Logo_kedua.png/400px-My_Cinema_Logo_kedua.png",My Cinema
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MyCinema.m3u8
 #EXTINF:-1 tvg-logo="https://tivie.id-www.my.id/channel-gHpd85caSER0dTX3XU25nHoqzJEk9wWPjHL5IixC-md.png",My Cinema Asia
 https://link.zozotv.xyz:443/perfecttv/perfecttv/395
 #EXTINF:-1 tvg-logo="https://tivie.id-www.my.id/channel-cKmqsyL0rNomfIf3vvbSVFIGvMZ50XehOfTmO74H-md.png",My Family Channel
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MyFamilyChannel.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_zbioskop_ver1.png",Zee Bioskop
+https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies
 https://link.zozotv.xyz:443/perfecttv/perfecttv/64
 #EXTINF:-1 tvg-logo="http://go4.pw/ASIA/Celestial.png",Celestial Classic Movies
 https://link.zozotv.xyz:443/perfecttv/perfecttv/65
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2560px-KIX_logo.svg.png",KIX
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_thrill_ver1.png",Thrill
+https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1719765710_88-SPOTV.png",SPOTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png",SPOTV 2
